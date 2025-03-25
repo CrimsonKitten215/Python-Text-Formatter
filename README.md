@@ -1,5 +1,5 @@
 # Python Text Formatter
-Contains every way of formatting python's console text.
+This contains every way of formatting python's console text.
 
 
 Why did I make this?
