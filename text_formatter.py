@@ -4,12 +4,12 @@ def format(text: str, fg="-1", bg="-1", bold=False, italic=False, underline=Fals
 	:param text: Text to be coloured
 	:param fg: Hex foreground colour code
 	:param bg: Hex background colour code
-	:param bold: If it's bold
-	:param italic: If it's italic
-	:param underline: If it's underlined
-	:param strong_underline: If it's underlined with an extra thick line
-	:param strikethrough: If it's crossed out
-	:param boxed: If it's boxed up like it's in a table
+	:param bold: If you want it bold
+	:param italic: If you want it italic
+	:param underline: If you want it underlined
+	:param strong_underline: If you want it underlined with an extra thick line
+	:param strikethrough: If you want it crossed out
+	:param boxed: If you want it boxed up like it's in a table
 	:return: Formatted text
 	"""
 
