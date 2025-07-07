@@ -4,12 +4,12 @@ def format(text: str, fg="-1", bg="-1", bold=False, italic=False, underline=Fals
 	:param text: Text to be coloured
 	:param fg: Hex foreground colour code
 	:param bg: Hex background colour code
-	:param bold: If you want it bold
-	:param italic: If you want it italic
-	:param underline: If you want it underlined
-	:param strong_underline: If you want it underlined with an extra thick line
-	:param strikethrough: If you want it crossed out
-	:param boxed: If you want it boxed up like it's in a table
+	:param bold: If ya want it bold
+	:param italic: If ya want it italic
+	:param underline: If ya want it underlined
+	:param strong_underline: If ya want it underlined with an extra thicc line
+	:param strikethrough: If ya want it crossed out
+	:param boxed: If ya want it boxed up like it's in a table
 	:return: Formatted text
 	"""
 
@@ -66,7 +66,7 @@ Specific RGB BG = \033[48;2;{r};{g};{b}m
 91 = Lighter Red FG
 92 = Vibrant Yellow FG
 93 = Vibrant Green FG
-94 = Lighter Blue FG <-- User input colour
+94 = Lighter Blue FG
 95 = Bright Pink FG
 96 = Vibrant Cyan FG
 97 = Perfect White FG
